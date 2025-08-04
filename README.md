@@ -9,7 +9,7 @@ Hyperlinks to each of the walkthroughs. Instructors may choose to use the walkth
 
 | Module | Walkthrough |
 | --- | --- |
-| Module 02 - Core Azure Services (Workloads) | 01 - Create a virtual machine in the portal (10 min) |
+| Module 02 - Core Azure Services (Workloads) | [01 - Create a virtual machine in the portal](Walkthroughs/01-Create a virtual machine.md) (10 min) |
 | Module 02 - Core Azure Services (Workloads) | 02 - Create a Web App (10 min) |
 | Module 02 - Core Azure Services (Workloads) | 03 - Deploy Azure Container Instances (10 min) | 
 | Module 02 - Core Azure Services (Workloads) | 04 - Create a virtual network (20 min) |
